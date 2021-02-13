@@ -1,0 +1,29 @@
+Do Some Research
+R1: Who is considered to have been the world's first computer programmer?
+A1: Ada Lovelace is considered the world's firts computer programmer.
+R2: Contrast between the environments of a web developer's and a web designer's.
+A2: A web developer's environment: There are unique tools and features for developers, and 
+those tools are changeable for specific needs.Most development environments are tailored to
+a particular programming language and come with tools for editing, testing, and compiling code.
+A web disegner's environment: 
+
+Challange
+What are some of the unique traits of 
+->JavaScript vs. Java?
+Java: It has a file extension ".Java". Java code must be compiled. Java creates applications that run
+in a virtual machine or browser. It is an object-oriented programming language.	
+JavaScript: It has file extension ".js". JavaScript code is all-text. JavaScript code is run 
+on a browser only.It is an object-based scripting language
+->COBOL vs. Go?
+COBOL: It has file extensions ".cbl , .cob , .cpy". It can be written in two formats: fixed or free.
+Go: It has a file extension  ".go." There are remote package management and online package documentation.
+
+Assignment
+Web developers would use tools because of their specific needs. Here I tried to explain the usage purpose 
+of 3 tools.
+-Bundlers/packagers: These are tools that get your code ready for production. 
+Parcel and Webpack are popular packaging tools.
+-Testing tools: These generally take the form of a tool that will automatically run tests against your 
+code to make sure it is correct before you go any further.
+-Deployment tools: Deployment systems allow you to get your website published, are available for both static and dynamic sites,
+ and commonly tend to work alongside testing systems.
